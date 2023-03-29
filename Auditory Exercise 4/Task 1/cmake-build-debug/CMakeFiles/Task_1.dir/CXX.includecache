@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Dimitar Kitanovski/Desktop/Documents/Faculty/Summer Semester/Object Oriented Programming/Auditory Exercises/Auditory Exercise 4/Task 1/main.cpp
+iostream
+-
+cstring
+-
+
